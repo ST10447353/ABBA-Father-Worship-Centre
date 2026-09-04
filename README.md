@@ -40,11 +40,11 @@ Administrators can manage members, verify accounts, view prayer requests, and ma
 
 ## Team Members
 
-- Member 1 – Project Manager
-- Member 2 – Lead Software Developer
-- Member 3 – Software Designer
-- Member 4 – Secretary
-- Member 5 – Tester / QA
+1. Karabo Rasetsoke - ST10452897
+2. Zinhle Matshiane - ST10447353
+3. Nicole Mkhari - ST10445319
+4. Morongoa Faith Kopase - ST10219926
+5. Valencia Mazibuko - ST10441531
 
 ## How To Run
 
